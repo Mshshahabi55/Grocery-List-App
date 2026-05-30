@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": true,
+      "item": "Milk"
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "Eggs"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "Bread"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "Apples"
+    },
+    {
+      "id": "5",
+      "checked": false,
+      "item": "Chicken"
+    },
+    {
+      "id": "7",
+      "checked": false,
+      "item": "Tomatoes"
+    },
+    {
+      "id": "8",
+      "checked": true,
+      "item": "Coffee"
+    },
+    {
+      "id": "9",
+      "checked": false,
+      "item": "cookies"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
